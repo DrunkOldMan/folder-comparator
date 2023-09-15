@@ -10,3 +10,4 @@ how to use:
 -in newVersion put the folder of the new version you want to compare
 -in oldMansFolderComparator run the folderComparator.exe
 -a file named changeLogs.txt will be created at the root folder
+-a folder name comparatorOutput will be created at the root folder containing more in depth analysis of the differences found
